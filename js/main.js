@@ -11,6 +11,7 @@ window.onscroll = function () {
   }
 };
 
+let all = 5;
 // ----------- Navbar active color-----------
 // Get the container element
 let btnContainer = document.getElementById("myDIV");
